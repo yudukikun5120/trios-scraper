@@ -1,0 +1,12 @@
+{
+  "name": "trios-scraper",
+  "version": "1.0.0",
+  "description": "Scrape the TRIOS from TypeScript.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Arai Yuzuki",
+  "license": "MIT",
+  "dependencies": {
+    "node-html-parser": "^6.1.5"
+  }
+}
